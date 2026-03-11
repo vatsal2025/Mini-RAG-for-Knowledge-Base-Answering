@@ -29,7 +29,7 @@ print("✅ All imports successful!")
 # ===================================================================
 
 
-GEMINI_API_KEY = "AIzaSyAf60-ydbgB8xbfh4r6Y8RU27HK0LKzFvs"
+GEMINI_API_KEY = "---"
 
 # Configure Gemini
 if GEMINI_API_KEY:
