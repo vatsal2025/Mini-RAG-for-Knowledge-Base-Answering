@@ -3,6 +3,7 @@
 
 A lightweight Retrieval-Augmented Generation (RAG) system built in Google Colab that answers customer support questions by intelligently retrieving relevant knowledge base articles and generating accurate, contextual responses using the Gemini API.
 
+For original project code, pls check out: https://colab.research.google.com/drive/1Zs4bnM1lTYcQImoVaLKMSrPx7R7UA0H5?usp=sharing#scrollTo=mv3qpWzYwsDW
 ---
 
 ##  Overview
